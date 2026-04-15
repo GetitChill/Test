@@ -53,10 +53,6 @@ public:
         std::mt19937 r;
         std::random_device rng;
 
-
-
-
-
         //A seed
         //A distribution (preferrably float)
         //x = rand, y = rand
